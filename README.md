@@ -14,7 +14,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Index Link support
 - Service account support
 - Mirror all youtube-dl supported links
-- Mirror telegram files
+- Mirror telegram files.
 
 # Upcoming features (TODOs):
 
